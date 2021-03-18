@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "secret key",
+    "mongoUri": "mongodb+srv://Vadim:upjwasd34@cluster0.ffvll.mongodb.net/test",
+    "baseUrl": "http://localhost:5000"
+}
